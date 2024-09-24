@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -75,4 +77,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

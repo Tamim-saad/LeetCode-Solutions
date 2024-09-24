@@ -1,86 +1,34 @@
-
-#define ll long long
-
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
-
-
-struct Node {
-    ll height;
-    ll index;
-};
-
-// Function to build the segment tree
-void buildTree(vector<Node>& segmentTree, const vector<int>& heights, ll node, ll start, ll end) {
-    if (start == end) {
-        segmentTree[node] = { heights[start], start };
-        return;
-    }
-
-    ll mid = start + (end - start) / 2;
-    buildTree(segmentTree, heights, 2 * node, start, mid);
-    buildTree(segmentTree, heights, 2 * node + 1, mid + 1, end);
-
-    if (segmentTree[2 * node].height < segmentTree[2 * node + 1].height)
-        segmentTree[node] = segmentTree[2 * node];
-    else
-        segmentTree[node] = segmentTree[2 * node + 1];
-}
-
-// Function to query the segment tree for minimum height and index
-Node query(vector<Node>& segmentTree, ll node, ll start, ll end, ll l, ll r) {
-    if (r < start || l > end)
-        return { INT_MAX, -1 };
-
-    if (l <= start && r >= end)
-        return segmentTree[node];
-
-    ll mid = start + (end - start) / 2;
-    Node left = query(segmentTree, 2 * node, start, mid, l, r);
-    Node right = query(segmentTree, 2 * node + 1, mid + 1, end, l, r);
-
-    if (left.height < right.height)
-        return left;
-    else
-        return right;
-}
-
-// Function to calculate the maximum area of a rectangle
-ll calculateArea(vector<Node>& segmentTree, const vector<int>& heights, ll start, ll end) {
-    if (start > end)
-        return 0;
-
-    if (start == end)
-        return heights[start];
-
-    Node minNode = query(segmentTree, 1, 0, heights.size() - 1, start, end);
-    ll minHeight = minNode.height;
-    ll minWidth = end - start + 1;
-    ll area = minHeight * minWidth;
-
-    ll leftArea = calculateArea(segmentTree, heights, start, minNode.index - 1);
-    ll rightArea = calculateArea(segmentTree, heights, minNode.index + 1, end);
-
-    return max(area, max(leftArea, rightArea));
-}
-
-
-
-
-
-
-
 public:
-    int largestRectangleArea(vector<int>& heights) {
-        ll n = heights.size();
-    if (n == 0)
-        return 0;
+  int largestRectangleArea(vector<int> &heights) {
+    int n = heights.size();
+    stack<pair<int, int>> st;
+    int ans = 0;
 
-    // Construct the segment tree
-    vector<Node> segmentTree(4 * n);
-    buildTree(segmentTree, heights, 1, 0, n - 1);
-
-    // Calculate the maximum area
-    return calculateArea(segmentTree, heights, 0, n - 1);
+    for (int i = 0; i < n; i++) {
+      int x = heights[i];
+      if (st.empty() || x > st.top().second) {
+        st.push(make_pair(i, x));
+      } else {
+        while (!st.empty() && x <= st.top().second) {
+          int h = st.top().second;
+          st.pop();
+          int w = st.empty() ? i : i - st.top().first - 1;
+          ans = max(ans, h * w);
+        }
+        st.push(make_pair(i, x));
+      }
     }
+
+    while (!st.empty()) {
+      int h = st.top().second;
+      st.pop();
+      int w = st.empty() ? n : n - st.top().first - 1;
+      ans = max(ans, h * w);
+    }
+    return ans;
+  }
 };

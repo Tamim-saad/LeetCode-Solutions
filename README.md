@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |

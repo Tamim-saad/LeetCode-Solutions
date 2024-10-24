@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0072-edit-distance) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0134-gas-station) |
 ## Bit Manipulation
 |  |

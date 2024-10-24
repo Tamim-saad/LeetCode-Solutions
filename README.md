@@ -33,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |

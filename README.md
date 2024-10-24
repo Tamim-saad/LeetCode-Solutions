@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0134-gas-station) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Greedy
 |  |
 | ------- |

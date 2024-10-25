@@ -8,16 +8,16 @@ class Solution {
 public:
     int maxProduct(vector<int>& nums) {
 		int n=nums.size();
-        int mini,maxi,ans;
+        int mini,maxi,ans,x,t;
         mini=maxi=ans=nums[0];
         for(int i=1;i<n;i++)
         {
-            int x=nums[i];
-            int t=maxi;
-            maxi=max(x,max(x*mini,x*maxi));
-            mini=min(min(x*mini,x),x*t);
+            x=nums[i];
+            t=maxi;
+            maxi=max({x,x*mini,x*maxi});
+            mini=min({x*mini,x,x*t});
             ans=max(ans,maxi);
-            cout<<maxi<<" - "<<mini<<" + "<<ans<<endl;
+            //cout<<maxi<<" - "<<mini<<" + "<<ans<<endl;
         }
         return ans;
     }

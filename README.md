@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 ## Matrix

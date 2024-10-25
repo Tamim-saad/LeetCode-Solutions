@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0136-single-number) |

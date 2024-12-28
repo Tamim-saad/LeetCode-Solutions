@@ -6,9 +6,9 @@ using namespace std;
 class Solution {
 public:
   bool isIsomorphic(string s, string t) {
-    map<char, char> mps, mpt;
+    // map<char, char> mps, mpt;
 
-    // vector<char> mps(256, 'a'), mpt(256, 'a');
+    vector<char> mps(256, 0), mpt(256, 0);
 
     for (int i = 0; i < s.size(); i++) {
       if (mps[s[i]] == 0)

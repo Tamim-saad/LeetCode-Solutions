@@ -1,4 +1,3 @@
-
 // say Alhamdulillah
 
 #include <bits/stdc++.h>
@@ -20,15 +19,13 @@ public:
     unique(nums.begin(), nums.end());
 
     bool f = false;
-    for (auto x : nums) {
+    for (auto &x : nums) {
       vector<int> v = mp[x];
       for (int i = 1; i < v.size(); i++) {
-        if (abs(v[i] - v[i - 1]) <= k && dup[v[i]] == dup[v[i - 1]]) {
+        if (v[i] - v[i - 1] <= k && dup[v[i]] == dup[v[i - 1]]) {
           f = true;
           break;
         }
-        if (abs(v[i] - v[i - 1]) > k)
-          continue;
       }
       if (f)
         break;

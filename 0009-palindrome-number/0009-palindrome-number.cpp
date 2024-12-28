@@ -8,10 +8,9 @@ public:
   bool isPalindrome(int x) {
     if (x < 0)
       return false;
-    string s, t;
+    vector<int> s, t;
     while (x) {
-      int r = x % 10;
-      s += '0' + r;
+      s.emplace_back(x % 10);
       x /= 10;
     }
     t = s;

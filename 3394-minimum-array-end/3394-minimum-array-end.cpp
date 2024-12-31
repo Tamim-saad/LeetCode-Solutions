@@ -1,4 +1,3 @@
-// say Alhamdulillah
 
 class Solution {
 public:
@@ -7,7 +6,7 @@ public:
     in--;
 
     while (i_i <= in) {
-      while (x & i_m)
+      while (ans & i_m)
         i_m <<= 1;
 
       if (in & i_i)

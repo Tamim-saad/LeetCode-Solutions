@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3394-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3394-minimum-array-end) |

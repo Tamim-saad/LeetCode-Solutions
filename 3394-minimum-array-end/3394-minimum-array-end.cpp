@@ -1,8 +1,5 @@
 // say Alhamdulillah
 
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
   long long minEnd(int in, int x) {
@@ -13,7 +10,9 @@ public:
       while (x & i_m)
         i_m <<= 1;
 
-      ans |= ((in & i_i) ? i_m : 0);
+      if (in & i_i)
+        ans |= i_m;
+
       i_m <<= 1;
       i_i <<= 1;
     }

@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3394-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3394-minimum-array-end) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Randomized
 |  |
 | ------- |

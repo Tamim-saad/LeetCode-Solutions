@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Randomized

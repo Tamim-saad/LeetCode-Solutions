@@ -1,10 +1,10 @@
 SELECT
   V.customer_id,
-  count(*) - count(T.transaction_id) as count_no_trans
+  count(*) as count_no_trans
 FROM
   Visits V
-  left join Transactions T on V.visit_id = T.visit_id
+  left join Transactions T using (visit_id)
+where
+  T.transaction_id is null
 group by
-  V.customer_id
-having
-  count_no_trans > 0;
+  V.customer_id;

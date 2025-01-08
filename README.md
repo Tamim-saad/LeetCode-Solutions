@@ -405,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->

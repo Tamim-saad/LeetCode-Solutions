@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |

@@ -1,11 +1,11 @@
 class Solution {
  public:
   int findJudge(int n, vector<vector<int>>& trust) {
-    vector<set<int>> adj_list(n + 1);
+    vector<vector<int>> adj_list(n + 1);
 
     vector<int> par(n + 1, -1);
     for (auto x : trust) {
-      adj_list[x[1]].insert(x[0]);
+      adj_list[x[1]].emplace_back(x[0]);
       par[x[0]] = x[1];
     }
     for (int i = 1; i <= n; i++) {

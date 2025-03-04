@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
+| [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 ## Monotonic Queue
 |  |
 | ------- |

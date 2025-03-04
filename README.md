@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 ## Randomized
 |  |
 | ------- |

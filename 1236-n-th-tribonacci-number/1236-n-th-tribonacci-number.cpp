@@ -1,16 +1,24 @@
+/// Alhamdulillah
+
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
   int tribonacci(int n) {
-    vector<int> v(38, 0);
-    v[1] = 1;
-    v[2] = 0;
-    for (int i = 1; i <= 37; i++) {
-      for (int j = 1; j <= 3; j++) {
-        if (i + j < 38)
-          v[i + j] += v[i];
-      }
+    vector<int> dp(n + 1);
+    dp[0] = 0;
+    if (n == 0)
+      return dp[0];
+    dp[1] = 1;
+    if (n == 1)
+      return dp[1];
+    dp[2] = 1;
+    if (n == 2)
+      return dp[2];
+    for (int i = 3; i <= n; i++) {
+      dp[i] = dp[i - 1] + dp[i - 2] + dp[i - 3];
     }
-    return v[n];
+    return dp[n];
   }
 };

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0202-happy-number) |
+| [0343-integer-break](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0343-integer-break) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |

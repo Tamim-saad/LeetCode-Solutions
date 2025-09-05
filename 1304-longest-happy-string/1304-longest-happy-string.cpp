@@ -20,16 +20,13 @@ public:
     char last2 = 'd';
 
     while (!pq.empty()) {
-      // cout << ans << " ----- " << endl;
       auto x = pq.top();
       pq.pop();
-      if (x.first <= 0)
-        continue;
+
       if (ans.length() >= 2 && x.second == ans.back() &&
           x.second == ans[ans.length() - 2]) {
 
         if (pq.empty()) {
-          // cout << " ---- " << ans << endl;
           return ans;
         }
 

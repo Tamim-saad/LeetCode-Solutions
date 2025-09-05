@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 ## Quickselect
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Math
 |  |
@@ -516,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
+| [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Database
 |  |

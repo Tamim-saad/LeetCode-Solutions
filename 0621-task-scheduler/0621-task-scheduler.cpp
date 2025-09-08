@@ -11,48 +11,41 @@ public:
     priority_queue<pair<int, char>> pq;
     vector<int> freq(26, 0), last(26, -(n + 1));
 
-    for (auto c : tasks) {
-      // int x =
+    for (auto c : tasks)
       freq[c - 'A']++;
-      // if(x)
-    }
 
-    // cout << " --- \n";
     for (char c = 'A'; c <= 'Z'; c++) {
-      if (freq[c - 'A'] > 0) {
+      if (freq[c - 'A'] > 0)
         pq.push({freq[c - 'A'], c});
-      }
     }
 
-    int gap = n, val, i = 0;
+    int i = 0;
     string ans = "";
 
     while (!pq.empty()) {
       vector<pair<int, char>> checked;
 
       while (!pq.empty() && i - last[pq.top().second - 'A'] <= n) {
-        auto y = pq.top();
+        auto x = pq.top();
         pq.pop();
-        checked.emplace_back(y);
+        checked.emplace_back(x);
       }
 
       if (pq.empty()) {
-        ans += "i";
-        i++;
+        ans += 'i';
       } else {
-
-        auto z = pq.top();
+        auto y = pq.top();
         pq.pop();
 
-        ans += z.second;
-        last[z.second - 'A'] = i;
-        if (--z.first > 0)
-          pq.push(z);
-        i++;
+        ans += y.second;
+        last[y.second - 'A'] = i;
+        if (--y.first > 0)
+          pq.push(y);
       }
-      for (auto t : checked) {
-        pq.push(t);
-      }
+      for (auto z : checked)
+        pq.push(z);
+
+      i++;
     }
 
     cout << ans << endl;

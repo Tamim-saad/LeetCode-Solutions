@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 ## Randomized
@@ -582,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0062-unique-paths) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

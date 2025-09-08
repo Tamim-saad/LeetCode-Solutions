@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0917-boats-to-save-people](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Prefix Sum

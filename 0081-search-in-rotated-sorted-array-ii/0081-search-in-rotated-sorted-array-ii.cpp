@@ -6,15 +6,12 @@ using namespace std;
 class Solution {
 public:
   bool search(vector<int> &nums, int target) {
-    long h, l, mid, n;
-    n = nums.size();
-    h = n - 1;
-    l = 0;
+    long l = 0, mid, h = nums.size() - 1;
 
     while (l <= h) {
       mid = (l + h) / 2;
 
-      if (nums[mid] == target || nums[l] == target || nums[h] == target)
+      if (nums[mid] == target)
         return true;
       if (nums[l] == nums[mid] && nums[mid] == nums[h]) {
         l++;

@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |

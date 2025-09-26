@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 ## Stack
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3394-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3394-minimum-array-end) |
 ## Queue
 |  |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -606,8 +610,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Interactive
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->

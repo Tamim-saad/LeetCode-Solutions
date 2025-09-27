@@ -17,10 +17,6 @@ public:
 
     for (int i = 0; i < m; i++) {
       for (int j = 0; j < n; j++) {
-        // if (obstacleGrid[i][j] == 1) {
-        //   dp[i][j] = -1;
-        //   continue;
-        // }
 
         if (obstacleGrid[i][j] == -1)
           continue;
@@ -29,10 +25,7 @@ public:
           dp[i + 1][j] += dp[i][j];
         if (j + 1 < n && obstacleGrid[i][j + 1] != 1)
           dp[i][j + 1] += dp[i][j];
-
-        cout << dp[i][j] << " ";
       }
-      cout << endl;
     }
 
     return dp[m - 1][n - 1];

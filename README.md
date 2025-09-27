@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
+| [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1236-n-th-tribonacci-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
+| [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1020-longest-turbulent-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1020-longest-turbulent-subarray) |
+| [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Math
 |  |
 | ------- |

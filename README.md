@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
+| [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -635,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Ordered Set
+|  |
+| ------- |
+| [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 <!---LeetCode Topics End-->

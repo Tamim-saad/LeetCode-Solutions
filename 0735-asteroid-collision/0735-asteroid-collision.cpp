@@ -6,8 +6,6 @@ using namespace std;
 class Solution {
 public:
   vector<int> asteroidCollision(vector<int> &asteroids) {
-    if (asteroids.size() == 1)
-      return asteroids;
 
     vector<int> ans;
     for (auto x : asteroids) {

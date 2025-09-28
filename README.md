@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Memoization
 |  |
 | ------- |

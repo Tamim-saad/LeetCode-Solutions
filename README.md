@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 ## Design
 |  |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
@@ -657,4 +661,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->

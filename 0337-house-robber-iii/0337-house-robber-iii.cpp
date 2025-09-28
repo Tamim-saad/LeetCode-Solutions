@@ -15,37 +15,25 @@ using namespace std;
 class Solution {
 public:
   map<pair<TreeNode *, int>, int> mp;
+
   int rec(TreeNode *root, int parntRob) {
     if (!root)
       return 0;
 
+    auto key = make_pair(root, parntRob);
+
+    if (mp[key])
+      return mp[key];
+
     int left, right, nebo, neboNa;
 
-    if (parntRob == 1) {
-      if (!mp[{root->left, 0}])
-        mp[{root->left, 0}] = rec(root->left, 0);
-      if (!mp[{root->right, 0}])
-        mp[{root->right, 0}] = rec(root->right, 0);
+    if (parntRob == 1)
+      return mp[key] = rec(root->left, 0) + rec(root->right, 0);
 
-      left = mp[{root->left, 0}];
-      right = mp[{root->right, 0}];
+    nebo = root->val + rec(root->left, 1) + rec(root->right, 1);
+    neboNa = rec(root->left, 0) + rec(root->right, 0);
 
-      return (left + right);
-    }
-
-    if (!mp[{root->left, 0}])
-      mp[{root->left, 0}] = rec(root->left, 0);
-    if (!mp[{root->right, 0}])
-      mp[{root->right, 0}] = rec(root->right, 0);
-    if (!mp[{root->left, 1}])
-      mp[{root->left, 1}] = rec(root->left, 1);
-    if (!mp[{root->right, 1}])
-      mp[{root->right, 1}] = rec(root->right, 1);
-
-    nebo = root->val + mp[{root->left, 1}] + mp[{root->right, 1}];
-    neboNa = mp[{root->left, 0}] + mp[{root->right, 0}];
-
-    return max(nebo, neboNa);
+    return mp[key] = max(nebo, neboNa);
   }
   int rob(TreeNode *root) { return rec(root, 0); }
 };

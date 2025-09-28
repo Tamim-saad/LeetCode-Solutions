@@ -1,5 +1,4 @@
 /// Alhamdulillah
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -13,7 +12,7 @@ using namespace std;
 
 class Solution {
 public:
-  int binSearch(int l, int h, int target, MountainArray &mountainArr,
+  int binSearch(int l, int h, int &target, MountainArray &mountainArr,
                 bool asc) {
 
     while (l <= h) {
@@ -40,9 +39,7 @@ public:
 
   int findInMountainArray(int target, MountainArray &mountainArr) {
     int n = mountainArr.length();
-
-    int l = 0, h = n - 1, m;
-    int peek = -1, peekPos;
+    int l = 0, h = n - 1, m, ans;
 
     while (l < h) {
       m = (l + h) / 2;
@@ -53,15 +50,10 @@ public:
         h = m;
     }
 
-    peekPos = l;
-
-    // peek = mountainArr.get(peekPos);
-    // cout << peek << " " << peekPos << endl;
-
-    int ans = binSearch(0, peekPos, target, mountainArr, true);
+    ans = binSearch(0, l, target, mountainArr, true);
     if (ans != -1)
       return ans;
 
-    return binSearch(peekPos + 1, n - 1, target, mountainArr, false);
+    return binSearch(l + 1, n - 1, target, mountainArr, false);
   }
 };

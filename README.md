@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1127-last-stone-weight](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
+| [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 ## Randomized
 |  |
 | ------- |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 ## Enumeration
 |  |
 | ------- |

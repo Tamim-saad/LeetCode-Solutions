@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
+| [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Greedy
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search

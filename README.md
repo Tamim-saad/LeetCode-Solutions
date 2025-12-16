@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0473-matchsticks-to-square](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [0473-matchsticks-to-square](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3394-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3394-minimum-array-end) |
@@ -691,4 +695,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->

@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -561,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Breadth-First Search
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union Find
@@ -719,4 +723,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0332-reconstruct-itinerary) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

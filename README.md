@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0752-open-the-lock) |
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0752-open-the-lock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0752-open-the-lock) |
 | [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
+| [0752-open-the-lock](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |

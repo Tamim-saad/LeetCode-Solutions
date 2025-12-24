@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 ## Heap (Priority Queue)
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Union Find
 |  |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimum Spanning Tree
 |  |
 | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
@@ -768,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2709-greatest-common-divisor-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->

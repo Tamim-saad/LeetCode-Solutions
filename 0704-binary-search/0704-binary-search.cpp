@@ -3,14 +3,14 @@ public:
     int search(vector<int>& nums, int target) {
 
         // Step 1: Set the starting and ending indices
-        int low = 0;                  // first index
-        int high = nums.size() - 1;   // last index
+        int low = 0;  //0                // first index
+        int high = nums.size() - 1; //500  // last index
 
         // Step 2: Continue searching while the range is valid
         while (low <= high) {
 
             // Step 3: Find the middle index
-            int mid = ( low + high ) / 2;
+            int mid = ( low + high ) / 2; //250
 
             // Step 4: If middle element is the target, return index
             if (nums[mid] == target) {

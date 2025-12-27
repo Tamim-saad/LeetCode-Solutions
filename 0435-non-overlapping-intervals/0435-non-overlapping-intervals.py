@@ -8,6 +8,7 @@ class Solution:
         # --------------------------------------------------
         if not intervals:
             return 0
+        
 
         # --------------------------------------------------
         # STEP 1: Sort intervals by END time

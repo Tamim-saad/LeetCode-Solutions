@@ -28,12 +28,12 @@ public:
       if (!root->right)
         return root->left;
 
-      TreeNode *curr = root->left;
-      while (curr->right)
-        curr = curr->right;
+      TreeNode *curr = root->right;
+      while (curr->left)
+        curr = curr->left;
 
       root->val = curr->val;
-      root->left = deleteNode(root->left, root->val);
+      root->right = deleteNode(root->right, curr->val);
     }
 
     return root;

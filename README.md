@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1729-find-followers-count) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1789-primary-department-for-each-employee](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2087-confirmation-rate) |

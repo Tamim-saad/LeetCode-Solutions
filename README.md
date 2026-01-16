@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1789-primary-department-for-each-employee](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1801-average-time-of-process-per-machine](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [1907-count-salary-categories](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2087-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |

@@ -683,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0197-rising-temperature) |

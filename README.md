@@ -704,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-project-employees-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1317-monthly-transactions-i) |

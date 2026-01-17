@@ -709,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-movie-rating](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1341-movie-rating) |
 | [1415-students-and-examinations](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1667-fix-names-in-a-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1729-find-followers-count) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |

@@ -706,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1258-article-views-i) |
 | [1317-monthly-transactions-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1317-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1321-restaurant-growth) |
+| [1341-movie-rating](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1341-movie-rating) |
 | [1415-students-and-examinations](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |

@@ -7,24 +7,18 @@ public:
     if (!root)
       return nullptr;
 
-    TreeNode *rightSaved = nullptr;
-
-    if (root->right) {
-      rightSaved = root->right;
-    }
+    TreeNode *rightSaved = root->right ? root->right : nullptr;
+    TreeNode *rightLast = root;
 
     if (root->left) {
       root->right = flattenWithRoot(root->left);
 
-      TreeNode *rightLast = root;
       while (rightLast->right) {
         root->left = nullptr;
         rightLast = rightLast->right;
       }
-      rightLast->right = flattenWithRoot(rightSaved);
-    } else {
-      root->right = flattenWithRoot(root->right);
     }
+    rightLast->right = flattenWithRoot(rightSaved);
 
     return root;
   }

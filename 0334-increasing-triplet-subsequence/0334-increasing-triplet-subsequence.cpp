@@ -1,4 +1,3 @@
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -15,8 +14,10 @@ public:
         int ind = lower_bound(seq.begin(), seq.end(), nums[i]) - seq.begin();
         seq[ind] = nums[i];
       }
+      if (seq.size() >= 3)
+        return true;
     }
-    
-    return seq.size() >= 3;
+
+    return false;
   }
 };

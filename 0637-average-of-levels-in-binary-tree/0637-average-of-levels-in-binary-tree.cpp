@@ -12,10 +12,10 @@ public:
 
     queue<TreeNode *> q;
     q.push(root);
-    double sum = 0, cnt = 0;
-
+    
     while (!q.empty()) {
       int size = q.size();
+      double sum = 0, cnt = 0;
 
       for (int i = 0; i < size; i++) {
         auto x = q.front();
@@ -31,8 +31,6 @@ public:
       }
 
       ans.emplace_back(sum / cnt);
-      sum = 0;
-      cnt = 0;
     }
 
     return ans;

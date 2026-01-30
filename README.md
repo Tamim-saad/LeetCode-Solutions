@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0202-happy-number) |
 | [0343-integer-break](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0343-integer-break) |

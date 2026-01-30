@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Memoization

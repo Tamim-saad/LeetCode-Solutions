@@ -21,9 +21,9 @@ public:
       even = even->next;
     }
 
-    if (odd->next) {
+    if (odd->next)
       even->next = odd->next;
-    } else
+    else
       even->next = nullptr;
 
     odd->next = evenHead.next;

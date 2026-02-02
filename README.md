@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Greedy
 |  |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |

@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
 using namespace std;
 
 class Solution {
@@ -9,15 +8,14 @@ public:
       return {0, 0};
 
     int left = 0, right = 0;
-    if (root->left) {
+    if (root->left)
       left = 1 + recur(root->left).second;
-    }
-    if (root->right) {
+    
+    if (root->right)
       right = 1 + recur(root->right).first;
-    }
+    
 
     ans = max({left, ans, right});
-
     return {left, right};
   }
 

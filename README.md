@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Number Theory
@@ -911,6 +916,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+## Union-Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->

@@ -4,8 +4,7 @@ using namespace std;
 class Solution {
 public:
   int longestOnes(vector<int> &nums, int k) {
-    int cnt, ans, j;
-    cnt = ans = j = 0;
+    int cnt = 0, ans = 0, j = 0;
 
     for (int i = 0; i < nums.size(); i++) {
       if (nums[i] == 0)

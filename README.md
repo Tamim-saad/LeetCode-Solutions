@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1833-find-the-highest-altitude](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Randomized

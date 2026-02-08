@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0460-lfu-cache](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0460-lfu-cache) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0772-construct-quad-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0772-construct-quad-tree) |
 | [0912-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0743-network-delay-time) |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
@@ -547,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 ## Radix Sort
@@ -560,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |

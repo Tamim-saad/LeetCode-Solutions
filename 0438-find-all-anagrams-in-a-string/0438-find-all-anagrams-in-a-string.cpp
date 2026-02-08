@@ -19,9 +19,8 @@ public:
         j++;
       }
 
-      if (curr == pat) {
+      if (i - j + 1 == p.size() && curr == pat)
         ans.emplace_back(j);
-      }
     }
     return ans;
   }

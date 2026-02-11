@@ -1,16 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
-#define fast                                                                   \
-  ios_base::sync_with_stdio(0);                                                \
-  cin.tie(0);                                                                  \
-  cout.tie(0);
 
 class Solution {
 public:
   string minWindow(string s, string t) {
     map<char, int> pattern, mp;
 
-    for (auto x : t)
+    for (auto &x : t)
       pattern[x]++;
 
     int i = 0, j = 0, cnt = 0, n = t.size();

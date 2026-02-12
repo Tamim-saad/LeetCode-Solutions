@@ -710,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1462-course-schedule-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0310-minimum-height-trees) |
+| [1462-course-schedule-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1462-course-schedule-iv) |
 ## Geometry
 |  |
 | ------- |
@@ -974,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0841-keys-and-rooms](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
+| [1462-course-schedule-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |

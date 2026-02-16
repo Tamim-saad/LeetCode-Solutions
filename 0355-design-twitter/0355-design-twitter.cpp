@@ -1,11 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 class Twitter {
 public:
-  priority_queue<pair<int, int>, vector<pair<int, int>>,
-                 greater<pair<int, int>>>
-      pq;
-
   int cnt = 0;
   map<int, set<int>> followers, following;
   map<int, priority_queue<pair<int, int>>> tweet;
@@ -14,6 +11,16 @@ public:
 
   void postTweet(int userId, int tweetId) {
     tweet[userId].push({++cnt, tweetId});
+  }
+
+  void follow(int followerId, int followeeId) {
+    followers[followeeId].insert(followerId);
+    following[followerId].insert(followeeId);
+  }
+
+  void unfollow(int followerId, int followeeId) {
+    followers[followeeId].erase(followerId);
+    following[followerId].erase(followeeId);
   }
 
   vector<int> getNewsFeed(int userId) {
@@ -47,15 +54,5 @@ public:
     }
 
     return ans;
-  }
-
-  void follow(int followerId, int followeeId) {
-    followers[followeeId].insert(followerId);
-    following[followerId].insert(followeeId);
-  }
-
-  void unfollow(int followerId, int followeeId) {
-    followers[followeeId].erase(followerId);
-    following[followerId].erase(followeeId);
   }
 };

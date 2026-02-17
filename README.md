@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0190-reverse-bits) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -842,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0209-minimum-size-subarray-sum) |

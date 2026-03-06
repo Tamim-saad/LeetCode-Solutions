@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0606-construct-string-from-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0684-redundant-connection) |
@@ -825,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |

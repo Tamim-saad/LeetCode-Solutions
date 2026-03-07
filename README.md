@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1039-find-the-town-judge) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -803,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -843,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1450-delete-leaves-with-a-given-value) |

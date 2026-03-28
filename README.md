@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0860-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Doubly-Linked List
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |

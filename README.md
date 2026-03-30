@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Backtracking
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1020-longest-turbulent-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2001-jump-game-vii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2001-jump-game-vii) |
 ## Monotonic Queue
 |  |

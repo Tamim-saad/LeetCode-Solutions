@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Stack
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Randomized
 |  |
 | ------- |

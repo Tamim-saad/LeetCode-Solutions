@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Array
 |  |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0901-online-stock-span) |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0933-number-of-recent-calls](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0933-number-of-recent-calls) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1051,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0931-maximum-frequency-stack](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0931-maximum-frequency-stack) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
 | ------- |

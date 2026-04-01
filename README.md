@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Stack
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
@@ -527,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
+| [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Bit Manipulation
 |  |
 | ------- |

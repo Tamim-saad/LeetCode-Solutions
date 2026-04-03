@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0990-verifying-an-alien-dictionary) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1250-longest-common-subsequence) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1894-merge-strings-alternately) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1184-car-pooling) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1304-longest-happy-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1304-longest-happy-string) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1185-find-in-mountain-array) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Randomized
@@ -943,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0212-word-search-ii) |
+| [1268-search-suggestions-system](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 ## Simulation
 |  |
 | ------- |

@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2709-greatest-common-divisor-traversal](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2709-greatest-common-divisor-traversal) |
 ## Stack
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1962-single-threaded-cpu](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1962-single-threaded-cpu) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Matrix
 |  |
 | ------- |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2058-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Database
 |  |
 | ------- |

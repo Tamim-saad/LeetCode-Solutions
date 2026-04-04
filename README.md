@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0790-domino-and-tromino-tiling) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0768-partition-labels](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0890-lemonade-change) |

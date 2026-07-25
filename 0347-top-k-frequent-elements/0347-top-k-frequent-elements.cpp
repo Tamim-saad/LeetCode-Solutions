@@ -12,10 +12,9 @@ public:
     vector<int> ans;
 
     for (auto x : mp)
-      vec.push_back({ x.second, x.first});
+      vec.push_back({x.second, x.first});
 
-    sort(vec.begin(), vec.end());
-    reverse(vec.begin(), vec.end());
+    sort(vec.begin(), vec.end(), greater<pair<int, int>>());
 
     for (int i = 0; i < k; i++)
       ans.push_back(vec[i].second);

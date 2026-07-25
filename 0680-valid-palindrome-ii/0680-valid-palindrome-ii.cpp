@@ -1,6 +1,6 @@
 class Solution {
  public:
-  bool check(string s, int i, int j) {
+  bool check(string &s, int i, int j) {
     while (i < j) {
       if (s[i] != s[j]) return false;
       i++;

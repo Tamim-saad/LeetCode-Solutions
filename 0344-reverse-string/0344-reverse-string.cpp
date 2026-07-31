@@ -1,12 +1,16 @@
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
   void reverseString(vector<char> &s) {
-    char ch;
-    for (int i = 0; i < s.size() / 2; i++) {
-      ch = s[i];
-      s[i] = s[s.size() - i - 1];
-      s[s.size() - i - 1] = ch;
+    int i = 0;
+    int j = s.size() - 1;
+
+    while (i < j) {
+      swap(s[i], s[j]);
+      i++;
+      j--;
     }
   }
 };

@@ -14,10 +14,7 @@ public:
 
       while (l < r) {
         if (l < r && piv + nums[l] + nums[r] == 0) {
-          int mini = min(piv, min(nums[l], nums[r]));
-          int maxi = max(piv, max(nums[l], nums[r]));
-          int mid = piv + nums[l] + nums[r] - mini - maxi;
-          st.insert({mini, mid, maxi});
+          st.insert({piv, nums[l], nums[r]});
           l++;
           r--;
         } else if (piv + nums[l] + nums[r] > 0)

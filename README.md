@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3133-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3133-minimum-array-end) |
 | [3394-minimum-array-end](https://github.com/Tamim-saad/LeetCode_Solutions/tree/master/3394-minimum-array-end) |
 ## Queue
 |  |

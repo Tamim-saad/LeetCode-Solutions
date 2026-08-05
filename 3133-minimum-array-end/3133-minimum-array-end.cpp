@@ -1,19 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
-  long long minEnd(int in, int x) {
-    long long i_i = 1, i_m = 1, ans = x;
-    in--;
+  long long minEnd(int n, int x) {
 
-    while (i_i <= in) {
-      while (ans & i_m)
-        i_m <<= 1;
+    long long numberToInsert = n - 1, reader = 1, finder = 1, ans = x;
 
-      if (in & i_i)
-        ans |= i_m;
+    while (reader <= numberToInsert) {
+      while (ans & finder)
+        finder <<= 1;
 
-      i_m <<= 1;
-      i_i <<= 1;
+      if (numberToInsert & reader)
+        ans |= finder;
+
+      finder <<= 1;
+      reader <<= 1;
     }
 
     return ans;
